@@ -1,4 +1,4 @@
 #apple
-host-keyword, mzstatic
-host-keyword, icloud
-host-keyword, apple
+host-keyword, mzstatic,🍎apple
+host-keyword, icloud,🍎apple
+host-keyword, apple,🍎apple
