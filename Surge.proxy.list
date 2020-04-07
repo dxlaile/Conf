@@ -15,6 +15,9 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,i.ytimg
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,tiktokv
+DOMAIN-SUFFIX,api-h2-eagle.tiktokv.com
+DOMAIN-SUFFIX,api-h2.tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-KEYWORD,byteoversea
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,instagram.com
