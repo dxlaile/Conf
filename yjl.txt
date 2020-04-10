@@ -1,4 +1,4 @@
-🇸🇬极速视频节点1 = https, a1.ap.fastqvpn.com, 29980, username=301089095289929728, password=73563b73-f03f-4ec2-b44b-d5af01386694, skip-cert-verify=true, tfo=true
-🇸🇬极速视频节点2 = https, a2.ap.fastqvpn.com, 29980, username=301089095289929728, password=73563b73-f03f-4ec2-b44b-d5af01386694, skip-cert-verify=true, tfo=true
-🇸🇬极速视频节点3 = https, a3.ap.fastqvpn.com, 29980, username=301089095289929728, password=73563b73-f03f-4ec2-b44b-d5af01386694, skip-cert-verify=true, tfo=true
-🇸🇬极速视频节点4 = https, a4.ap.fastqvpn.com, 29980, username=301089095289929728, password=73563b73-f03f-4ec2-b44b-d5af01386694, skip-cert-verify=true, tfo=true
+🇸🇬极速视频节点1 = https, a1.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
+🇸🇬极速视频节点2 = https, a2.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
+🇸🇬极速视频节点3 = https, a3.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
+🇸🇬极速视频节点4 = https, a4.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
