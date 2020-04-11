@@ -6,3 +6,4 @@ IP-CIDR,224.0.0.0/24
 DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,api.bilibili.com
+GEOIP,CN
