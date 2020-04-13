@@ -13,10 +13,6 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,i.ytimg
 DOMAIN-KEYWORD,akamaized
-DOMAIN-KEYWORD,tiktokv
-DOMAIN-SUFFIX,api-h2-eagle.tiktokv.com
-DOMAIN-SUFFIX,api-h2.tiktokv.com
-DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,byteoversea
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,instagram.com
@@ -27,6 +23,7 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,suo.im
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,lenglengyu.top
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,speed
 GEOIP,US
