@@ -1,0 +1,5 @@
+v2ray自动分配 - 1G带宽 = vmess, v2.bingclub.top, 80, username=7c144f0f-056b-3a56-9c54-20369267becd, ws=true, ws-path=/v2ray
+v2ray节点USE - 200M带宽 = vmess, 47.240.172.28, 80, username=7c144f0f-056b-3a56-9c54-20369267becd, ws=true, ws-path=/v2ray
+v2ray节点HKH - 200M带宽 = vmess, 149.129.124.49, 80, username=7c144f0f-056b-3a56-9c54-20369267becd, ws=true, ws-path=/v2ray
+v2ray节点USL - 200M带宽 = vmess, 47.240.173.245, 80, username=7c144f0f-056b-3a56-9c54-20369267becd, ws=true, ws-path=/v2ray
+v2ray节点HKQ - 200M带宽 = vmess, 149.129.123.203, 80, username=7c144f0f-056b-3a56-9c54-20369267becd, ws=true, ws-path=/v2ray
