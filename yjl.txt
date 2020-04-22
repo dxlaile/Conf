@@ -2,5 +2,5 @@
 🇸🇬极速视频节点2 = https, a2.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
 🇸🇬极速视频节点3 = https, a3.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
 🇸🇬极速视频节点4 = https, a4.ap.fastqvpn.com, 29980, username=298975386006454272, password=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tfo=true
-🇭🇰高速测试节点 = vmess, ap1-hk.sanjijia.club, 443, username=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tls=true, ws=true, ws-path=/ray
-🇭🇰意大利节点 = vmess, ap1-italy.sanjijia.club, 443, username=7f7accdc-783c-4e92-977c-47e3ca71fab3, skip-cert-verify=true, tls=true, ws=true, ws-path=/ray
+🇭🇰高速测试节点 = vmess,ap1-hk.sanjijia.club, 443, username=7f7accdc-783c-4e92-977c-47e3ca71fab3,tls=true, ws=true, ws-path=/ray,ws-headers=Host:ap1-hi.sanjijia.club,skip-cert-verify=1,udp-relay=true
+🇭🇰意大利节点 = vmess,ap1-italy.sanjijia.club,443, username=7f7accdc-783c-4e92-977c-47e3ca71fab3, tls=true, ws=true, ws-path=/ray, ws-headers=Host:ap1-italy.sanjijia.club, skip-cert-verify=1,udp-relay=true
