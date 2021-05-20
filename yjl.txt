@@ -1,12 +1,12 @@
-🇭🇰-HK01 =https,a1.ap.fastqvpn.com,29980, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇭🇰-HK02 =https,a2.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇭🇰-HK03 =https,a3.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇭🇰-HK04 =https,a4.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇭🇰-HK05 =https,a1.er3.xyz,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇯🇵-JP01 =https,ap1-jp.er3.xyz,29985, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇸🇬-SG01 =https,ap1-sg.er3.xyz,29986, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇫🇷-FR01 =https,ap1-uk.er3.xyz,29987, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇺🇸-US01 =https,ap1-us.er3.xyz,29988, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇺🇸-US02 =https,ap1-ge.er3.xyz,29984, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇺🇸-US03 =https,ap1-ca.er3.xyz,29983, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
-🇺🇸-US04 =https,ap1-au.er3.xyz,29982, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇭🇰HK01 =https,a1.ap.fastqvpn.com,29980, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇭🇰HK02 =https,a2.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇭🇰HK03 =https,a3.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇭🇰HK04 =https,a4.ap.fastqvpn.com,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇭🇰HK05 =https,a1.er3.xyz,29980, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇯🇵JP01 =https,ap1-jp.er3.xyz,29985, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇸🇬SG01 =https,ap1-sg.er3.xyz,29986, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇫🇷FR01 =https,ap1-uk.er3.xyz,29987, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇺🇸US01 =https,ap1-us.er3.xyz,29988, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇺🇸US02 =https,ap1-ge.er3.xyz,29984, username=447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇺🇸US03 =https,ap1-ca.er3.xyz,29983, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
+🇺🇸US04 =https,ap1-au.er3.xyz,29982, username= 447867628136960000, password= 5a514ae9-318d-4c4b-bb29-1496572702aa, skip-cert-verify=true
