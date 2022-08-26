@@ -1,5 +1,3 @@
-🇭🇰HK01 =https,a1.ap.fastqvpn.com,29980, username= 450689675904942080, password= 0d7f22df-a891-4a55-a26d-7bbd69f99d69, skip-cert-verify=true
-🇭🇰HK02 =https,a2.ap.fastqvpn.com,29980, username= 450689675904942080, password= 0d7f22df-a891-4a55-a26d-7bbd69f99d69, skip-cert-verify=true
-🇭🇰HK03 =https,a3.ap.fastqvpn.com,29980, username= 450689675904942080, password= 0d7f22df-a891-4a55-a26d-7bbd69f99d69, skip-cert-verify=true
-🇭🇰HK04 =https,a4.ap.fastqvpn.com,29980, username= 450689675904942080, password= 0d7f22df-a891-4a55-a26d-7bbd69f99d69, skip-cert-verify=true
-🇭🇰HK05 =https,a1.er3.xyz,29980, username= 450689675904942080, password= 0d7f22df-a891-4a55-a26d-7bbd69f99d69, skip-cert-verify=true
+ssr://anAtYW0yNS5lcW5vZGUubmV0OjgyODE6b3JpZ2luOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpkamxRZDI5V1JHbHMvP3JlbWFya3M9JnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://anAtYW0zOC5lcW5vZGUubmV0OjgwODI6b3JpZ2luOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpjV1JSUW01Q09FMDAvP3JlbWFya3M9JnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
